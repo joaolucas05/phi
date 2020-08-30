@@ -6,7 +6,7 @@ This system will help to manage any type of project
 This project aims to deliver to the conclusion of the "Practical Programming Project"
 Whose guidance is being given by teacher Thiago Traue
 
-# PhiSquad(Portugues)
+# PhiSquad(Português)
 Este é o primeiro projeto de sistema administrativo para empresas projetado pela Phisquad.
 
 Esse sistema ira ajudar a gerenciar qualquer tipo de projeto
